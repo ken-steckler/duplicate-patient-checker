@@ -25,5 +25,5 @@ it will not recognize "Tom" vs "Thomas").
 ---
 
 ### Technology Used
-Python
+Python <br />
 Pycharm
